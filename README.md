@@ -26,6 +26,16 @@
 </details>
   
 <details>
+  <summary> Video Object Segment </summary>
+  
+</details>
+  
+<details>
+  <summary> Video Captioning/Retrieval </summary>
+  
+</details>
+  
+<details>
   <summary> Video Scene Graph Generation </summary>
  
 ### 2022
@@ -62,6 +72,11 @@
   
 <details>
   <summary> Video Question Answering </summary>
+  
+</details>
+  
+<details>
+  <summary> Unsupervised Video Understanding </summary>
   
 </details>
   
