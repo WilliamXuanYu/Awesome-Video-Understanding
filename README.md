@@ -22,10 +22,22 @@
 <details>
   <summary> Video Action Recognition </summary>
   
+### 2022
+|  **Pub.**  | **Title**                                                    |                          **Links**                           |
+| :--------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
+| CVPR | Bridge-Prompt: Towards Ordinal Action Understanding in Instructional Videos | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Bridge-Prompt_Towards_Ordinal_Action_Understanding_in_Instructional_Videos_CVPR_2022_paper.pdf)/[Code](https://github.com/ttlmh/Bridge-Prompt) |
+| CVPR | Temporal Alignment Networks for Long-term Video | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Han_Temporal_Alignment_Networks_for_Long-Term_Video_CVPR_2022_paper.pdf)/[Code](https://www.robots.ox.ac.uk/~vgg/research/tan/) |
+  
 </details>
   
 <details>
   <summary> Video Retrieval </summary>
+  
+### 2022
+|  **Pub.**  | **Title**                                                    |                          **Links**                           |
+| :--------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
+| CVPR | Everything at Once – Multi-modal Fusion Transformer for Video Retrieval | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Shvetsova_Everything_at_Once_-_Multi-Modal_Fusion_Transformer_for_Video_Retrieval_CVPR_2022_paper.pdf)/[Code](https://github.com/ninatu/everything_at_once) | 
+ 
   
 </details>
   
@@ -36,7 +48,6 @@
 |  **Pub.**  | **Title**                                                    |                          **Links**                           |
 | :--------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
 | CVPR | End-to-End Generative Pretraining for Multimodal Video Captioning | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Seo_End-to-End_Generative_Pretraining_for_Multimodal_Video_Captioning_CVPR_2022_paper.pdf) |
-  
   
 </details>
   
@@ -64,7 +75,6 @@
 | CVPR | Action Genome: Actions as Composition of Spatio-temporal Scene Graphs | [PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Ji_Action_Genome_Actions_As_Compositions_of_Spatio-Temporal_Scene_Graphs_CVPR_2020_paper.pdf)/[Dataset (Action Genome)](https://www.actiongenome.org/) |
 | CVPR | Beyond Short-Term Snippet: Video Relation Detection with Spatio-Temporal Global Context | [PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Beyond_Short-Term_Snippet_Video_Relation_Detection_With_Spatio-Temporal_Global_Context_CVPR_2020_paper.pdf) 
 | ECCV | Visual Relation Grounding in Videos | [PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123510443.pdf)/[Code](https://github.com/doc-doc/vRGV) |  
-  
 ### 2019~2017
 |  **Pub.**  | **Title**                                                    |                          **Links**                           |
 | :--------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
@@ -78,6 +88,11 @@
 <details>
   <summary> Video Question Answering </summary>
   
+### 2022
+|  **Pub.**  | **Title**                                                    |                          **Links**                           |
+| :--------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
+| CVPR | Invariant Grounding for Video Question Answering | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Invariant_Grounding_for_Video_Question_Answering_CVPR_2022_paper.pdf)/[Code](https://github.com/yl3800/IGV) |
+  
 </details>
   
 <details>
@@ -88,15 +103,12 @@
 | :--------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
 | CVPR | Motion-aware Contrastive Video Representation Learning via Foreground-background Merging | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Ding_Motion-Aware_Contrastive_Video_Representation_Learning_via_Foreground-Background_Merging_CVPR_2022_paper.pdf)/[Code](https://github.com/Mark12Ding/FAME) |
 | CVPR | Long-Short Temporal Contrastive Learning of Video Transformers | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Long-Short_Temporal_Contrastive_Learning_of_Video_Transformers_CVPR_2022_paper.pdf) |
+| CVPR | TransRank: Self-supervised Video Representation Learning via Ranking-based Transformation Recognition | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Duan_TransRank_Self-Supervised_Video_Representation_Learning_via_Ranking-Based_Transformation_Recognition_CVPR_2022_paper.pdf)/[Code](https://github.com/kennymckormick/TransRank) |
   
 </details>
   
-  
-
-  
 <h2 id="1">1. Tutorials</h2>
 
-  
 <details> <summary> Tutorials published on 2021  </summary>
   
 |  **Pub.**  | **Title**                                                    |                          **Links**                           |
