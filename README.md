@@ -39,10 +39,17 @@
 | :--------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
 | ICCV | Spatial-Temporal Transformer for Dynamic Scene Graph Generation | [PDF](https://arxiv.org/pdf/2107.12309.pdf)/[Code](https://github.com/yrcong/STTran) |
 | ICCV | Target Adaptive Context Aggregation for Video Scene Graph Generation | [PDF](https://arxiv.org/pdf/2108.08121.pdf)/[Code](https://github.com/MCG-NJU/TRACE) |
+
+### 2020
+|  **Pub.**  | **Title**                                                    |                          **Links**                           |
+| :--------: | :----------------------------------------------------------- | :----------------------------------------------------------: |  
+| CVPR | Beyond Short-Term Snippet: Video Relation Detection with Spatio-Temporal Global Context | [PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Beyond_Short-Term_Snippet_Video_Relation_Detection_With_Spatio-Temporal_Global_Context_CVPR_2020_paper.pdf) |
   
 ### 2019~2017
 |  **Pub.**  | **Title**                                                    |                          **Links**                           |
 | :--------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
+| CVPR'19 | Video Relationship Reasoning using Gated Spatio-Temporal Energy Graph | [PDF](https://openaccess.thecvf.com/content_CVPR_2019/papers/Tsai_Video_Relationship_Reasoning_Using_Gated_Spatio-Temporal_Energy_Graph_CVPR_2019_paper.pdf) |
+| ACM MM'19 | Video Relation Detection with Spatio-Temporal Graph | [PDF](https://dl.acm.org/doi/pdf/10.1145/3343031.3351058) |
 | ICMR'19 | Annotating Objects and Relations in User-Generated Videos | [PDF](https://dl.acm.org/doi/pdf/10.1145/3323873.3325056)/[Dataset (VidOR)](https://xdshang.github.io/docs/vidor.html) |
 | ACM MM'17 | Video Visual Relation Detection | [PDF](https://dl.acm.org/doi/pdf/10.1145/3123266.3123380)/[Dataset (VidVRD)](https://xdshang.github.io/docs/imagenet-vidvrd.html) |
   
