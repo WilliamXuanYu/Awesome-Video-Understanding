@@ -26,7 +26,7 @@
 </details>
   
 <details>
-  <summary> Video Object Segment </summary>
+  <summary> Video Object Segmentation </summary>
   
 </details>
   
