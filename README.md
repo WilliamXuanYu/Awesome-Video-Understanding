@@ -25,12 +25,18 @@
 </details>
   
 <details>
-  <summary> Video Object Segmentation </summary>
+  <summary> Video Retrieval </summary>
   
 </details>
   
 <details>
-  <summary> Video Captioning/Retrieval </summary>
+  <summary> Video Captioning </summary>
+
+### 2022
+|  **Pub.**  | **Title**                                                    |                          **Links**                           |
+| :--------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
+| CVPR | End-to-End Generative Pretraining for Multimodal Video Captioning | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Seo_End-to-End_Generative_Pretraining_for_Multimodal_Video_Captioning_CVPR_2022_paper.pdf) |
+  
   
 </details>
   
@@ -76,8 +82,17 @@
   
 <details>
   <summary> Unsupervised Video Understanding </summary>
+
+### 2022
+|  **Pub.**  | **Title**                                                    |                          **Links**                           |
+| :--------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
+| CVPR | Motion-aware Contrastive Video Representation Learning via Foreground-background Merging | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Ding_Motion-Aware_Contrastive_Video_Representation_Learning_via_Foreground-Background_Merging_CVPR_2022_paper.pdf)/[Code](https://github.com/Mark12Ding/FAME) |
+| CVPR | Long-Short Temporal Contrastive Learning of Video Transformers | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Long-Short_Temporal_Contrastive_Learning_of_Video_Transformers_CVPR_2022_paper.pdf) |
   
 </details>
+  
+  
+
   
 <h2 id="1">1. Tutorials</h2>
 
