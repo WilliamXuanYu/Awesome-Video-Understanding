@@ -1,6 +1,6 @@
-# Video Parsing (视频解析) ![](https://visitor-badge.glitch.me/badge?page_id=putao537.Awesome-Video-Parsing)
+# Video Understanding (视频理解) ![](https://visitor-badge.glitch.me/badge?page_id=putao537.Awesome-Video-Understanding)
 
-<h4 align="center">Everything about video parsing.</h4>
+<h4 align="center">Everything about video understanding.</h4>
 
 <p align="center">
   <strong><a href="#0">Papers</a></strong> •
