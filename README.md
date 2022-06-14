@@ -28,6 +28,20 @@
 <details>
   <summary> Video Scene Graph Generation </summary>
   
+  
+  
+### 2019
+|  **Pub.**  | **Title**                                                    |                          **Links**                           |
+| :--------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
+| ICMR | Annotating Objects and Relations in User-Generated Videos | [PDF]([https://dl.acm.org/doi/pdf/10.1145/3123266.3123380](https://dl.acm.org/doi/pdf/10.1145/3323873.3325056))/[Dataset (VidOR)]([https://xdshang.github.io/docs/imagenet-vidvrd.html](https://xdshang.github.io/docs/vidor.html)) |
+
+
+### 2017
+|  **Pub.**  | **Title**                                                    |                          **Links**                           |
+| :--------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
+| ACM MM | Video Visual Relation Detection | [PDF](https://dl.acm.org/doi/pdf/10.1145/3123266.3123380)/[Dataset (VidVRD)](https://xdshang.github.io/docs/imagenet-vidvrd.html) |
+||||
+  
 </details>
   
 <details>
