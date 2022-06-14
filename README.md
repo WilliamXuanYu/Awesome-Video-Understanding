@@ -7,7 +7,6 @@
   <strong><a href="#1">Tutorials</a></strong> •
   <strong><a href="#2">Talks</a></strong> •
   <strong><a href="#3">Blogs</a></strong> •
-  <strong><a href="#4">Datasets & Benchmarks</a></strong>
 </p>
 
 <div align=center>
@@ -97,5 +96,3 @@
   
 <h2 id="3">3. Blogs</h2>
 
-
-<h2 id="4">4. Datasets & Benchmarks</h2>
