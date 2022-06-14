@@ -27,6 +27,10 @@
 | :--------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
 | CVPR | Bridge-Prompt: Towards Ordinal Action Understanding in Instructional Videos | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Bridge-Prompt_Towards_Ordinal_Action_Understanding_in_Instructional_Videos_CVPR_2022_paper.pdf)/[Code](https://github.com/ttlmh/Bridge-Prompt) |
 | CVPR | Temporal Alignment Networks for Long-term Video | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Han_Temporal_Alignment_Networks_for_Long-Term_Video_CVPR_2022_paper.pdf)/[Code](https://www.robots.ox.ac.uk/~vgg/research/tan/) |
+| CVPR | Deformable Video Transformer | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Deformable_Video_Transformer_CVPR_2022_paper.pdf) |
+| CVPR | MeMViT: Memory-Augmented Multiscale Vision Transformer for Efficient Long-Term Video Recognition | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Wu_MeMViT_Memory-Augmented_Multiscale_Vision_Transformer_for_Efficient_Long-Term_Video_Recognition_CVPR_2022_paper.pdf) |
+| CVPR | Assembly101: A Large-Scale Multi-View Video Dataset for Understanding Procedural Activities | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Sener_Assembly101_A_Large-Scale_Multi-View_Video_Dataset_for_Understanding_Procedural_Activities_CVPR_2022_paper.pdf)/[Code](https://assembly-101.github.io/) |
+| CVPR | Recurring the Transformer for Video Action Recognition | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Recurring_the_Transformer_for_Video_Action_Recognition_CVPR_2022_paper.pdf) |
   
 </details>
   
@@ -37,6 +41,7 @@
 |  **Pub.**  | **Title**                                                    |                          **Links**                           |
 | :--------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
 | CVPR | Everything at Once – Multi-modal Fusion Transformer for Video Retrieval | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Shvetsova_Everything_at_Once_-_Multi-Modal_Fusion_Transformer_for_Video_Retrieval_CVPR_2022_paper.pdf)/[Code](https://github.com/ninatu/everything_at_once) | 
+| CVPR | Object-aware Video-language Pre-training for Retrieval | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Object-Aware_Video-Language_Pre-Training_for_Retrieval_CVPR_2022_paper.pdf)/[Code](https://github.com/FingerRec/OA-Transformer) |
  
   
 </details>
@@ -92,11 +97,12 @@
 |  **Pub.**  | **Title**                                                    |                          **Links**                           |
 | :--------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
 | CVPR | Invariant Grounding for Video Question Answering | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Invariant_Grounding_for_Video_Question_Answering_CVPR_2022_paper.pdf)/[Code](https://github.com/yl3800/IGV) |
+| CVPR | Measuring Compositional Consistency for Video Question Answering | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Gandhi_Measuring_Compositional_Consistency_for_Video_Question_Answering_CVPR_2022_paper.pdf) |
   
 </details>
   
 <details>
-  <summary> Unsupervised Video Understanding </summary>
+  <summary> Semi-supervised/Webly-supervised/Unsupervised Video Understanding </summary>
 
 ### 2022
 |  **Pub.**  | **Title**                                                    |                          **Links**                           |
@@ -104,6 +110,22 @@
 | CVPR | Motion-aware Contrastive Video Representation Learning via Foreground-background Merging | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Ding_Motion-Aware_Contrastive_Video_Representation_Learning_via_Foreground-Background_Merging_CVPR_2022_paper.pdf)/[Code](https://github.com/Mark12Ding/FAME) |
 | CVPR | Long-Short Temporal Contrastive Learning of Video Transformers | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Long-Short_Temporal_Contrastive_Learning_of_Video_Transformers_CVPR_2022_paper.pdf) |
 | CVPR | TransRank: Self-supervised Video Representation Learning via Ranking-based Transformation Recognition | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Duan_TransRank_Self-Supervised_Video_Representation_Learning_via_Ranking-Based_Transformation_Recognition_CVPR_2022_paper.pdf)/[Code](https://github.com/kennymckormick/TransRank) |
+| CVPR | Video-Text Representation Learning via Differentiable Weak Temporal Alignment | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Ko_Video-Text_Representation_Learning_via_Differentiable_Weak_Temporal_Alignment_CVPR_2022_paper.pdf)/[Code](https://github.com/mlvlab/VT-TWINS) |
+| CVPR | Look for the Change: Learning Object States and State-Modifying Actions from Untrimmed Web Videos | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Soucek_Look_for_the_Change_Learning_Object_States_and_State-Modifying_Actions_CVPR_2022_paper.pdf)/[Code](https://data.ciirc.cvut.cz/public/projects/2022LookForTheChange/) |
+| CVPR | Semi-Weakly-Supervised Learning of Complex Actions from Instructional Task Videos | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Shen_Semi-Weakly-Supervised_Learning_of_Complex_Actions_From_Instructional_Task_Videos_CVPR_2022_paper.pdf)/[Code](https://github.com/Yuhan-Shen/SWSL) |
+| CVPR | Cross-Architecture Self-supervised Video Representation Learning | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Guo_Cross-Architecture_Self-Supervised_Video_Representation_Learning_CVPR_2022_paper.pdf)/[Code](https://github.com/guoshengcv/CACL) |
+| CVPR | Probabilistic Representations for Video Contrastive Learning | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Park_Probabilistic_Representations_for_Video_Contrastive_Learning_CVPR_2022_paper.pdf) |
+| CVPR | Learning from Untrimmed Videos: Self-Supervised Video Representation Learning with Hierarchical Consistency | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Qing_Learning_From_Untrimmed_Videos_Self-Supervised_Video_Representation_Learning_With_Hierarchical_CVPR_2022_paper.pdf)/[Code](https://hico-cvpr2022.github.io/) |
+  
+</details>
+  
+<details>
+  <summary> Video Representation Learning </summary>
+
+### 2022
+|  **Pub.**  | **Title**                                                    |                          **Links**                           |
+| :--------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
+| CVPR | Tencent-MVSE: A Large-Scale Benchmark Dataset for Multi-Modal Video Similarity Evaluation | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Zeng_Tencent-MVSE_A_Large-Scale_Benchmark_Dataset_for_Multi-Modal_Video_Similarity_Evaluation_CVPR_2022_paper.pdf)/[Code](https://tencent-mvse.github.io/) |
   
 </details>
   
