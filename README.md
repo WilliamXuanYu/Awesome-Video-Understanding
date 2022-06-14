@@ -33,18 +33,22 @@
 | :--------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
 | CVPR | Classification-Then-Grounding: Reformulating Video Scene Graphs as Temporal Bipartite Graphs | [PDF](https://arxiv.org/pdf/2112.04222.pdf)/[Code](https://github.com/Dawn-LX/VidSGG-BIG) |
 | CVPR | Dynamic Scene Graph Generation via Anticipatory Pre-training | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Dynamic_Scene_Graph_Generation_via_Anticipatory_Pre-Training_CVPR_2022_paper.pdf) |
+| CVPR | VRDFormer: End-to-End Video Visual Relation Detection with Transformers | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Zheng_VRDFormer_End-to-End_Video_Visual_Relation_Detection_With_Transformers_CVPR_2022_paper.pdf)/[Code](https://github.com/zhengsipeng/VRDFormer_VRD) |
   
 ### 2021
 |  **Pub.**  | **Title**                                                    |                          **Links**                           |
 | :--------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
+| TNNLS | What and When to Look?: Temporal Span Proposal Network for Video Visual Relation Detection | [PDF](https://arxiv.org/pdf/2107.07154.pdf) |
 | ICCV | Spatial-Temporal Transformer for Dynamic Scene Graph Generation | [PDF](https://arxiv.org/pdf/2107.12309.pdf)/[Code](https://github.com/yrcong/STTran) |
 | ICCV | Target Adaptive Context Aggregation for Video Scene Graph Generation | [PDF](https://arxiv.org/pdf/2108.08121.pdf)/[Code](https://github.com/MCG-NJU/TRACE) |
+| ACM MM | Video Relation Detection via Tracklet based Visual Transformer | [PDF](https://dl.acm.org/doi/pdf/10.1145/3474085.3479231)/[Code](https://github.com/Dawn-LX/VidVRD-tracklets) |
 
 ### 2020
 |  **Pub.**  | **Title**                                                    |                          **Links**                           |
 | :--------: | :----------------------------------------------------------- | :----------------------------------------------------------: |  
 | CVPR | Action Genome: Actions as Composition of Spatio-temporal Scene Graphs | [PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Ji_Action_Genome_Actions_As_Compositions_of_Spatio-Temporal_Scene_Graphs_CVPR_2020_paper.pdf)/[Dataset (Action Genome)](https://www.actiongenome.org/) |
 | CVPR | Beyond Short-Term Snippet: Video Relation Detection with Spatio-Temporal Global Context | [PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Beyond_Short-Term_Snippet_Video_Relation_Detection_With_Spatio-Temporal_Global_Context_CVPR_2020_paper.pdf) 
+| ECCV | Visual Relation Grounding in Videos | [PDF](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123510443.pdf)/[Code](https://github.com/doc-doc/vRGV) |  
   
 ### 2019~2017
 |  **Pub.**  | **Title**                                                    |                          **Links**                           |
