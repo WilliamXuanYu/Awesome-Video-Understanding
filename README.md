@@ -19,3 +19,38 @@
 </div>
 
 <h2 id="0">0. Papers</h2>
+
+<details>
+  <summary> Video Action Recognition </summary>
+  
+</details>
+  
+<details>
+  <summary> Video Scene Graph Generation </summary>
+  
+</details>
+  
+<details>
+  <summary> Video Question Answering </summary>
+  
+</details>
+  
+<h2 id="1">1. Tutorials</h2>
+
+  
+<details> <summary> Tutorials published on 2021  </summary>
+  
+|  **Pub.**  | **Title**                                                    |                          **Links**                           |
+| :--------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
+|  |  |  |
+
+</details>  
+  
+  
+<h2 id="2">2. Talks</h2>
+  
+  
+<h2 id="3">3. Blogs</h2>
+
+
+<h2 id="4">4. Datasets & Benchmarks</h2>
