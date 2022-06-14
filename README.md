@@ -43,7 +43,8 @@
 ### 2020
 |  **Pub.**  | **Title**                                                    |                          **Links**                           |
 | :--------: | :----------------------------------------------------------- | :----------------------------------------------------------: |  
-| CVPR | Beyond Short-Term Snippet: Video Relation Detection with Spatio-Temporal Global Context | [PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Beyond_Short-Term_Snippet_Video_Relation_Detection_With_Spatio-Temporal_Global_Context_CVPR_2020_paper.pdf) |
+| CVPR | Action Genome: Actions as Composition of Spatio-temporal Scene Graphs | [PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Ji_Action_Genome_Actions_As_Compositions_of_Spatio-Temporal_Scene_Graphs_CVPR_2020_paper.pdf)/[Dataset (Action Genome)](https://www.actiongenome.org/) |
+| CVPR | Beyond Short-Term Snippet: Video Relation Detection with Spatio-Temporal Global Context | [PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Beyond_Short-Term_Snippet_Video_Relation_Detection_With_Spatio-Temporal_Global_Context_CVPR_2020_paper.pdf) 
   
 ### 2019~2017
 |  **Pub.**  | **Title**                                                    |                          **Links**                           |
