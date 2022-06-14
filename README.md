@@ -27,8 +27,18 @@
   
 <details>
   <summary> Video Scene Graph Generation </summary>
+ 
+### 2022
+|  **Pub.**  | **Title**                                                    |                          **Links**                           |
+| :--------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
+| CVPR | Classification-Then-Grounding: Reformulating Video Scene Graphs as Temporal Bipartite Graphs | [PDF](https://arxiv.org/pdf/2112.04222.pdf)/[Code](https://github.com/Dawn-LX/VidSGG-BIG) |
+| CVPR | Dynamic Scene Graph Generation via Anticipatory Pre-training | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Dynamic_Scene_Graph_Generation_via_Anticipatory_Pre-Training_CVPR_2022_paper.pdf) |
   
-  
+### 2021
+|  **Pub.**  | **Title**                                                    |                          **Links**                           |
+| :--------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
+| ICCV | Spatial-Temporal Transformer for Dynamic Scene Graph Generation | [PDF](https://arxiv.org/pdf/2107.12309.pdf)/[Code](https://github.com/yrcong/STTran) |
+| ICCV | Target Adaptive Context Aggregation for Video Scene Graph Generation | [PDF](https://arxiv.org/pdf/2108.08121.pdf)/[Code](https://github.com/MCG-NJU/TRACE) |
   
 ### 2019
 |  **Pub.**  | **Title**                                                    |                          **Links**                           |
