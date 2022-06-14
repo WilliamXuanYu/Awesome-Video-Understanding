@@ -40,17 +40,11 @@
 | ICCV | Spatial-Temporal Transformer for Dynamic Scene Graph Generation | [PDF](https://arxiv.org/pdf/2107.12309.pdf)/[Code](https://github.com/yrcong/STTran) |
 | ICCV | Target Adaptive Context Aggregation for Video Scene Graph Generation | [PDF](https://arxiv.org/pdf/2108.08121.pdf)/[Code](https://github.com/MCG-NJU/TRACE) |
   
-### 2019
+### 2019~2017
 |  **Pub.**  | **Title**                                                    |                          **Links**                           |
 | :--------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
-| ICMR | Annotating Objects and Relations in User-Generated Videos | [PDF](https://dl.acm.org/doi/pdf/10.1145/3323873.3325056)/[Dataset (VidOR)](https://xdshang.github.io/docs/vidor.html) |
-
-
-### 2017
-|  **Pub.**  | **Title**                                                    |                          **Links**                           |
-| :--------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
-| ACM MM | Video Visual Relation Detection | [PDF](https://dl.acm.org/doi/pdf/10.1145/3123266.3123380)/[Dataset (VidVRD)](https://xdshang.github.io/docs/imagenet-vidvrd.html) |
-||||
+| ICMR'19 | Annotating Objects and Relations in User-Generated Videos | [PDF](https://dl.acm.org/doi/pdf/10.1145/3323873.3325056)/[Dataset (VidOR)](https://xdshang.github.io/docs/vidor.html) |
+| ACM MM'17 | Video Visual Relation Detection | [PDF](https://dl.acm.org/doi/pdf/10.1145/3123266.3123380)/[Dataset (VidVRD)](https://xdshang.github.io/docs/imagenet-vidvrd.html) |
   
 </details>
   
