@@ -32,6 +32,8 @@
 | CVPR | Assembly101: A Large-Scale Multi-View Video Dataset for Understanding Procedural Activities | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Sener_Assembly101_A_Large-Scale_Multi-View_Video_Dataset_for_Understanding_Procedural_Activities_CVPR_2022_paper.pdf)/[Code](https://assembly-101.github.io/) |
 | CVPR | Recurring the Transformer for Video Action Recognition | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Recurring_the_Transformer_for_Video_Action_Recognition_CVPR_2022_paper.pdf) |
 | CVPR | Frame-wise Action Representations for Long Videos viaSequence Contrastive Learning | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Frame-Wise_Action_Representations_for_Long_Videos_via_Sequence_Contrastive_Learning_CVPR_2022_paper.pdf)/[Code](https://github.com/minghchen/CARL_code) |
+| CVPR | Joint Hand Motion and Interaction Hotspots Prediction from Egocentric Videos | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Joint_Hand_Motion_and_Interaction_Hotspots_Prediction_From_Egocentric_Videos_CVPR_2022_paper.pdf)/[Code](https://stevenlsw.github.io/hoi-forecast/) |
+| CVPR | End-to-End Semi-Supervised Learning for Video Action Detection | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Kumar_End-to-End_Semi-Supervised_Learning_for_Video_Action_Detection_CVPR_2022_paper.pdf)/[Code](https://github.com/AKASH2907/pi-consistency-activity-detection) |
   
 </details>
   
@@ -57,6 +59,7 @@
 | CVPR | End-to-End Generative Pretraining for Multimodal Video Captioning | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Seo_End-to-End_Generative_Pretraining_for_Multimodal_Video_Captioning_CVPR_2022_paper.pdf) |
 | CVPR | Hierarchical Modular Network for Video Captioning | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Ye_Hierarchical_Modular_Network_for_Video_Captioning_CVPR_2022_paper.pdf) |
 | CVPR | SwinBERT: End-to-End Transformers with Sparse Attentionfor Video Captioning | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Lin_SwinBERT_End-to-End_Transformers_With_Sparse_Attention_for_Video_Captioning_CVPR_2022_paper.pdf)/[Code](https://github.com/microsoft/SwinBERT) |
+| CVPR | Complex Video Action Reasoning via Learnable Markov Logic Network | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Jin_Complex_Video_Action_Reasoning_via_Learnable_Markov_Logic_Network_CVPR_2022_paper.pdf) |
   
 </details>
   
@@ -102,6 +105,7 @@
 | :--------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
 | CVPR | Invariant Grounding for Video Question Answering | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Invariant_Grounding_for_Video_Question_Answering_CVPR_2022_paper.pdf)/[Code](https://github.com/yl3800/IGV) |
 | CVPR | Measuring Compositional Consistency for Video Question Answering | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Gandhi_Measuring_Compositional_Consistency_for_Video_Question_Answering_CVPR_2022_paper.pdf) |
+| CVPR | From Representation to Reasoning: Towards both Evidence and Commonsense Reasoning for Video Question-Answering | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_From_Representation_to_Reasoning_Towards_Both_Evidence_and_Commonsense_Reasoning_CVPR_2022_paper.pdf)/[Code](https://github.com/bcmi/Causal-VidQA) |
   
 </details>
   
@@ -120,6 +124,8 @@
 | CVPR | Cross-Architecture Self-supervised Video Representation Learning | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Guo_Cross-Architecture_Self-Supervised_Video_Representation_Learning_CVPR_2022_paper.pdf)/[Code](https://github.com/guoshengcv/CACL) |
 | CVPR | Probabilistic Representations for Video Contrastive Learning | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Park_Probabilistic_Representations_for_Video_Contrastive_Learning_CVPR_2022_paper.pdf) |
 | CVPR | Learning from Untrimmed Videos: Self-Supervised Video Representation Learning with Hierarchical Consistency | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Qing_Learning_From_Untrimmed_Videos_Self-Supervised_Video_Representation_Learning_With_Hierarchical_CVPR_2022_paper.pdf)/[Code](https://hico-cvpr2022.github.io/) |
+| CVPR | Self-supervised Video Transformer | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Ranasinghe_Self-Supervised_Video_Transformer_CVPR_2022_paper.pdf)/[Code](https://git.io/J1juJ) |  
+
   
 </details>
   
@@ -135,8 +141,9 @@
 | CVPR | Multiview Transformers for Video Recognition | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Yan_Multiview_Transformers_for_Video_Recognition_CVPR_2022_paper.pdf)/[Code](https://github.com/google-research/scenic) |
 | CVPR | Object-Region Video Transformers | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Herzig_Object-Region_Video_Transformers_CVPR_2022_paper.pdf)/[Code](https://roeiherz.github.io/ORViT/) |
 | CVPR | Video Swin Transformer | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Video_Swin_Transformer_CVPR_2022_paper.pdf) |  
-  
-
+| CVPR | Revisiting the “Video” in Video-Language Understanding | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Buch_Revisiting_the_Video_in_Video-Language_Understanding_CVPR_2022_paper.pdf)/[Code](https://stanfordvl.github.io/atp-revisit-video-lang/) |
+| CVPR | Ego4D: Around the World in 3,000 Hours of Egocentric Video | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Grauman_Ego4D_Around_the_World_in_3000_Hours_of_Egocentric_Video_CVPR_2022_paper.pdf)/[Code](https://ego4d-data.org/) |
+| CVPR | TubeFormer-DeepLab: Video Mask Transformer | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Kim_TubeFormer-DeepLab_Video_Mask_Transformer_CVPR_2022_paper.pdf) |
   
 </details>
   
