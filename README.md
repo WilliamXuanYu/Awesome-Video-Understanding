@@ -31,6 +31,7 @@
 | CVPR | MeMViT: Memory-Augmented Multiscale Vision Transformer for Efficient Long-Term Video Recognition | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Wu_MeMViT_Memory-Augmented_Multiscale_Vision_Transformer_for_Efficient_Long-Term_Video_Recognition_CVPR_2022_paper.pdf) |
 | CVPR | Assembly101: A Large-Scale Multi-View Video Dataset for Understanding Procedural Activities | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Sener_Assembly101_A_Large-Scale_Multi-View_Video_Dataset_for_Understanding_Procedural_Activities_CVPR_2022_paper.pdf)/[Code](https://assembly-101.github.io/) |
 | CVPR | Recurring the Transformer for Video Action Recognition | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Recurring_the_Transformer_for_Video_Action_Recognition_CVPR_2022_paper.pdf) |
+| CVPR | Frame-wise Action Representations for Long Videos viaSequence Contrastive Learning | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Frame-Wise_Action_Representations_for_Long_Videos_via_Sequence_Contrastive_Learning_CVPR_2022_paper.pdf)/[Code](https://github.com/minghchen/CARL_code) |
   
 </details>
   
@@ -42,6 +43,7 @@
 | :--------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
 | CVPR | Everything at Once – Multi-modal Fusion Transformer for Video Retrieval | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Shvetsova_Everything_at_Once_-_Multi-Modal_Fusion_Transformer_for_Video_Retrieval_CVPR_2022_paper.pdf)/[Code](https://github.com/ninatu/everything_at_once) | 
 | CVPR | Object-aware Video-language Pre-training for Retrieval | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Object-Aware_Video-Language_Pre-Training_for_Retrieval_CVPR_2022_paper.pdf)/[Code](https://github.com/FingerRec/OA-Transformer) |
+| CVPR | AxIoU: An Axiomatically Justified Measure for Video Moment Retrieval | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Togashi_AxIoU_An_Axiomatically_Justified_Measure_for_Video_Moment_Retrieval_CVPR_2022_paper.pdf) |
  
   
 </details>
@@ -53,6 +55,8 @@
 |  **Pub.**  | **Title**                                                    |                          **Links**                           |
 | :--------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
 | CVPR | End-to-End Generative Pretraining for Multimodal Video Captioning | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Seo_End-to-End_Generative_Pretraining_for_Multimodal_Video_Captioning_CVPR_2022_paper.pdf) |
+| CVPR | Hierarchical Modular Network for Video Captioning | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Ye_Hierarchical_Modular_Network_for_Video_Captioning_CVPR_2022_paper.pdf) |
+| CVPR | SwinBERT: End-to-End Transformers with Sparse Attentionfor Video Captioning | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Lin_SwinBERT_End-to-End_Transformers_With_Sparse_Attention_for_Video_Captioning_CVPR_2022_paper.pdf)/[Code](https://github.com/microsoft/SwinBERT) |
   
 </details>
   
@@ -126,6 +130,13 @@
 |  **Pub.**  | **Title**                                                    |                          **Links**                           |
 | :--------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
 | CVPR | Tencent-MVSE: A Large-Scale Benchmark Dataset for Multi-Modal Video Similarity Evaluation | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Zeng_Tencent-MVSE_A_Large-Scale_Benchmark_Dataset_for_Multi-Modal_Video_Similarity_Evaluation_CVPR_2022_paper.pdf)/[Code](https://tencent-mvse.github.io/) |
+| CVPR | 3MASSIV: Multilingual, Multimodal and Multi-Aspect dataset of Social Media Short Videos | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Gupta_3MASSIV_Multilingual_Multimodal_and_Multi-Aspect_Dataset_of_Social_Media_Short_CVPR_2022_paper.pdf)/[Code](https://sharechat.com/research/3massiv) |
+| CVPR | BEVT: BERT Pretraining of Video Transformers | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_BEVT_BERT_Pretraining_of_Video_Transformers_CVPR_2022_paper.pdf)/[Code](https://github.com/xyzforever/BEVT) |
+| CVPR | Multiview Transformers for Video Recognition | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Yan_Multiview_Transformers_for_Video_Recognition_CVPR_2022_paper.pdf)/[Code](https://github.com/google-research/scenic) |
+| CVPR | Object-Region Video Transformers | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Herzig_Object-Region_Video_Transformers_CVPR_2022_paper.pdf)/[Code](https://roeiherz.github.io/ORViT/) |
+| CVPR | Video Swin Transformer | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Video_Swin_Transformer_CVPR_2022_paper.pdf) |  
+  
+
   
 </details>
   
