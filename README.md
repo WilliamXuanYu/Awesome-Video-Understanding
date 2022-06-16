@@ -152,9 +152,29 @@
   
 |  **Pub.**  | **Title**                                                    |                          **Links**                           |
 | :--------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
-|  |  |  |
+| CVPR | 2nd Comprehensive Tutorial on Video Modeling | [Homepage](https://bryanyzhu.github.io/video-cvpr2021/) |
+| ICCV | 2nd Tutorial on Large Scale Holistic Video Understanding | [Homepage](https://holistic-video-understanding.github.io/tutorials/iccv2021.html) |
+| ICCV | Efficient Video Understanding: State-of-the-art, Challenges, and Opportunities | [Homepage](https://sites.google.com/view/effvideo-2021/) |
 
 </details>  
+   
+<details> <summary> Tutorials published on 2020  </summary>
+  
+|  **Pub.**  | **Title**                                                    |                          **Links**                           |
+| :--------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
+| CVPR | Visual Recognition for Images, Video, and 3D | [Homepage](https://www.sainingxie.com/Tutorials/CVPR2020/) |
+| CVPR | Large Scale Holistic Video Understanding Tutorial | [Homepage](https://holistic-video-understanding.github.io/tutorials/cvpr2020.html) |
+| CVPR | A Comprehensive Tutorial on Video Modeling | [Homepage](https://bryanyzhu.github.io/videomodeling.github.io/) |
+  
+</details>  
+  
+<details> <summary> Tutorials published on 2019  </summary>
+  
+|  **Pub.**  | **Title**                                                    |                          **Links**                           |
+| :--------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
+
+</details>  
+
   
   
 <h2 id="2">2. Talks</h2>
