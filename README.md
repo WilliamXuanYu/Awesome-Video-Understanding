@@ -6,7 +6,7 @@
   <strong><a href="#0">Papers</a></strong> •
   <strong><a href="#1">Tutorials</a></strong> •
   <strong><a href="#2">Talks</a></strong> •
-  <strong><a href="#3">Blogs</a></strong> •
+  <strong><a href="#3">Blogs</a></strong>
 </p>
 
 <div align=center>
