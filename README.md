@@ -78,6 +78,7 @@
 | TNNLS | What and When to Look?: Temporal Span Proposal Network for Video Visual Relation Detection | [PDF](https://arxiv.org/pdf/2107.07154.pdf) |
 | ICCV | Spatial-Temporal Transformer for Dynamic Scene Graph Generation | [PDF](https://arxiv.org/pdf/2107.12309.pdf)/[Code](https://github.com/yrcong/STTran) |
 | ICCV | Target Adaptive Context Aggregation for Video Scene Graph Generation | [PDF](https://arxiv.org/pdf/2108.08121.pdf)/[Code](https://github.com/MCG-NJU/TRACE) |
+| ICCV | Detecting Human-Object Relationships in Videos | [PDF](https://openaccess.thecvf.com/content/ICCV2021/papers/Ji_Detecting_Human-Object_Relationships_in_Videos_ICCV_2021_paper.pdf) |
 | ACM MM | Video Relation Detection via Tracklet based Visual Transformer | [PDF](https://dl.acm.org/doi/pdf/10.1145/3474085.3479231)/[Code](https://github.com/Dawn-LX/VidVRD-tracklets) |
 | arxiv | Exploiting Long-Term Dependencies for Generating Dynamic Scene Graphs | [PDF](https://arxiv.org/pdf/2112.09828.pdf) |
 
