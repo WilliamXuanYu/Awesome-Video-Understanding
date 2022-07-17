@@ -79,7 +79,7 @@
 | ICCV | Spatial-Temporal Transformer for Dynamic Scene Graph Generation | [PDF](https://arxiv.org/pdf/2107.12309.pdf)/[Code](https://github.com/yrcong/STTran) |
 | ICCV | Target Adaptive Context Aggregation for Video Scene Graph Generation | [PDF](https://arxiv.org/pdf/2108.08121.pdf)/[Code](https://github.com/MCG-NJU/TRACE) |
 | ACM MM | Video Relation Detection via Tracklet based Visual Transformer | [PDF](https://dl.acm.org/doi/pdf/10.1145/3474085.3479231)/[Code](https://github.com/Dawn-LX/VidVRD-tracklets) |
-｜ arXiv ｜ Exploiting Long-Term Dependencies for Generating Dynamic Scene Graphs ｜[PDF](https://arxiv.org/pdf/2112.09828.pdf) ｜
+｜ arXiv ｜ Exploiting Long-Term Dependencies for Generating Dynamic Scene Graphs | [PDF](https://arxiv.org/pdf/2112.09828.pdf) ｜
 
 ### 2020
 |  **Pub.**  | **Title**                                                    |                          **Links**                           |
