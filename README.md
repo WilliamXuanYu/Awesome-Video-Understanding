@@ -9,14 +9,6 @@
   <strong><a href="#3">Datasets</a></strong>
 </p>
 
-<div align=center>
-  <img src='./Figures/WeChat.png' width="50%" />
-</div>
-
-<div align=center>
-  <a href="https://www.zhihu.com/people/putao537"><img src="https://img.shields.io/badge/知乎-blue" alt=""></a> <a href="https://wx.zsxq.com/dweb2/index/group/15288888851422"><a href="https://space.bilibili.com/11722513"><img src="https://img.shields.io/badge/Bilibili-blue" alt=""></a>
-</div>
-
 <h2 id="0">0. Papers</h2>
 
 <details>
