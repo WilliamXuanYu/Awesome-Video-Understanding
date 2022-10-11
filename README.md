@@ -24,7 +24,21 @@
 
 <h2 id="1">1. Tutorials</h2>
 
+<h2 id="2">2. Workshops</h2>
+
 <h2 id="0">0. Papers</h2>
+
+<h2 id="3">3. Talks</h2>
+
+<h2 id="4">4. Scholars</h2>
+
+<h2 id="5">5. Surveys</h2>
+
+<h2 id="6">6. Tasks</h2>
+
+<h2 id="7">7. Datasets & Benchmarks</h2>
+
+
 
 <details>
   <summary> Video Action Recognition </summary>
