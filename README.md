@@ -9,6 +9,27 @@
   <strong><a href="#3">Scholars</a></strong>
 </p>
 
+
+<p align="center">
+  <strong><a href="#0">Papers</a></strong> •
+  <strong><a href="#1">Tutorials</a></strong> •
+  <strong><a href="#2">Workshops</a></strong> •
+  <strong><a href="#3">Talks</a></strong> •
+  <strong><a href="#4">Scholars</a></strong>
+</p>
+
+<p align="center">
+  <strong><a href="#5">Surveys</a></strong> •
+  <strong><a href="#6">Tasks</a></strong> •
+  <strong><a href="#7">Datasets & Benchmarks</a></strong>
+</p>
+
+
+<h2 id="0">0. Papers</h2>
+
+**By Date:** [[2022]](Papers/2022.md) [[2021]](Papers/2021.md) [[2020]](Papers/2020.md) [[2019]](Papers/2019.md) [[2018]](Papers/2018.md)    
+**By Tasks:** []
+
 <h2 id="0">0. Papers</h2>
 
 <details>
