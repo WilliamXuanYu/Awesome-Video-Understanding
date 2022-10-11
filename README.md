@@ -20,7 +20,7 @@
 <h2 id="0">0. Papers</h2>
 
 **By Date:** [[2022]](Papers/2022.md) [[2021]](Papers/2021.md) [[2020]](Papers/2020.md) [[2019]](Papers/2019.md) [[2018]](Papers/2018.md)    
-**By Tasks:** []
+**By Tasks:** [[Video Action Recognition]](Papers/Video_Action_Recognition.md) [[Video Captioning]](Papers/Video_Captioning.md) [[Video Scene Graph Generation]](Papers/Video_Scene_Graph_Generation.md) [[Video Question Answering]](Papers/Video_Question_Answering.md) [[Self-supervised Video Representation Learning.md]](Papers/Self-supervised_Video_Representation_Learning.md)  
 
 <h2 id="1">1. Tutorials</h2>
 
