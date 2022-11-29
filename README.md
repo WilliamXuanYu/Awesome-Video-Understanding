@@ -7,37 +7,21 @@
   <strong><a href="#1">Tutorials</a></strong> •
   <strong><a href="#2">Workshops</a></strong> •
   <strong><a href="#3">Talks</a></strong> •
-  <strong><a href="#4">Scholars</a></strong>
+  <strong><a href="#4">Companies & Labs</a></strong>
 </p>
-
-<p align="center">
-  <strong><a href="#5">Surveys</a></strong> •
-  <strong><a href="#6">Tasks</a></strong> •
-  <strong><a href="#7">Datasets & Benchmarks</a></strong>
-</p>
-
 
 <h2 id="0">0. Papers</h2>
 
-**By Date:** [[2022]](Papers/2022.md) [[2021]](Papers/2021.md) [[2020]](Papers/2020.md) [[2019]](Papers/2019.md) [[2018]](Papers/2018.md)    
 **By Tasks:** [[Video Action Recognition]](Papers/Video_Action_Recognition.md) [[Video Captioning]](Papers/Video_Captioning.md) [[Video Scene Graph Generation]](Papers/Video_Scene_Graph_Generation.md)   
-&emsp;&emsp;&emsp;&emsp; [[Video Question Answering]](Papers/Video_Question_Answering.md) [[Self-supervised Video Representation Learning.md]](Papers/Self-supervised_Video_Representation_Learning.md)  
+&emsp;&emsp;&emsp;&emsp; [[Video Question Answering]](Papers/Video_Question_Answering.md) [[Self-supervised Video Representation Learning]](Papers/Self-supervised_Video_Representation_Learning.md)  
 
 <h2 id="1">1. Tutorials</h2>
 
 <h2 id="2">2. Workshops</h2>
 
-<h2 id="0">0. Papers</h2>
-
 <h2 id="3">3. Talks</h2>
 
-<h2 id="4">4. Scholars</h2>
-
-<h2 id="5">5. Surveys</h2>
-
-<h2 id="6">6. Tasks</h2>
-
-<h2 id="7">7. Datasets & Benchmarks</h2>
+<h2 id="4">4. Companies & Labs</h2>
 
 
 
