@@ -1,13 +1,10 @@
 ### 2022
-|  **Pub.**  | **Title**                                                    |                          **Links**                           |
-| :--------: | :----------------------------------------------------------- | :----------------------------------------------------------: |
-| CVPR | Bridge-Prompt: Towards Ordinal Action Understanding in Instructional Videos | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Bridge-Prompt_Towards_Ordinal_Action_Understanding_in_Instructional_Videos_CVPR_2022_paper.pdf)/[Code](https://github.com/ttlmh/Bridge-Prompt) |
-| CVPR | Temporal Alignment Networks for Long-term Video | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Han_Temporal_Alignment_Networks_for_Long-Term_Video_CVPR_2022_paper.pdf)/[Code](https://www.robots.ox.ac.uk/~vgg/research/tan/) |
-| CVPR | Deformable Video Transformer | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_Deformable_Video_Transformer_CVPR_2022_paper.pdf) |
-| CVPR | MeMViT: Memory-Augmented Multiscale Vision Transformer for Efficient Long-Term Video Recognition | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Wu_MeMViT_Memory-Augmented_Multiscale_Vision_Transformer_for_Efficient_Long-Term_Video_Recognition_CVPR_2022_paper.pdf) |
-| CVPR | Assembly101: A Large-Scale Multi-View Video Dataset for Understanding Procedural Activities | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Sener_Assembly101_A_Large-Scale_Multi-View_Video_Dataset_for_Understanding_Procedural_Activities_CVPR_2022_paper.pdf)/[Dataset (Assembly101)](https://assembly-101.github.io/) |
-| CVPR | Recurring the Transformer for Video Action Recognition | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Recurring_the_Transformer_for_Video_Action_Recognition_CVPR_2022_paper.pdf) |
-| CVPR | Frame-wise Action Representations for Long Videos viaSequence Contrastive Learning | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Frame-Wise_Action_Representations_for_Long_Videos_via_Sequence_Contrastive_Learning_CVPR_2022_paper.pdf)/[Code](https://github.com/minghchen/CARL_code) |
-| CVPR | Joint Hand Motion and Interaction Hotspots Prediction from Egocentric Videos | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Joint_Hand_Motion_and_Interaction_Hotspots_Prediction_From_Egocentric_Videos_CVPR_2022_paper.pdf)/[Code](https://stevenlsw.github.io/hoi-forecast/) |
-| CVPR | End-to-End Semi-Supervised Learning for Video Action Detection | [PDF](https://openaccess.thecvf.com/content/CVPR2022/papers/Kumar_End-to-End_Semi-Supervised_Learning_for_Video_Action_Detection_CVPR_2022_paper.pdf)/[Code](https://github.com/AKASH2907/pi-consistency-activity-detection) |
-  
+- Bridge-Prompt: Towards Ordinal Action Understanding in Instructional Videos, CVPR 2022, [[PDF]](https://arxiv.org/abs/2203.14104)  
+- Temporal Alignment Networks for Long-term Video, CVPR 2022, [[PDF]](https://arxiv.org/abs/2204.02968)  
+- Deformable Video Transformer, CVPR 2022, [[PDF]](https://arxiv.org/abs/2203.16795)  
+- MeMViT: Memory-Augmented Multiscale Vision Transformer for Efficient Long-Term Video Recognition, CVPR 2022, [[PDF]](https://arxiv.org/abs/2201.08383)  
+- Assembly101: A Large-Scale Multi-View Video Dataset for Understanding Procedural Activities, CVPR 2022, [[PDF]](https://arxiv.org/abs/2203.14712)  
+- Recurring the Transformer for Video Action Recognition, CVPR 2022, [[PDF]](https://ieeexplore.ieee.org/document/9878733/)  
+- Frame-wise Action Representations for Long Videos viaSequence Contrastive Learning, CVPR 2022, [[PDF]](https://arxiv.org/abs/2203.14957)  
+- Joint Hand Motion and Interaction Hotspots Prediction from Egocentric Videos, CVPR 2022, [[PDF]](https://arxiv.org/abs/2204.01696)  
+- End-to-End Semi-Supervised Learning for Video Action Detection, CVPR 2022, [[PDF]](https://arxiv.org/abs/2203.04251)  
